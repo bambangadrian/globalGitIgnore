@@ -1,0 +1,12 @@
+# Vendor, User Guides, Bin Directory, logs
+/docs
+/vendor
+/node_modules
+/bin
+/tmp
+/tests
+Development/**/*.yml
+Production/**/*.yml
+composer.lock
+# IDE Files
+/.idea
